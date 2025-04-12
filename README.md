@@ -1,4 +1,5 @@
 ## Hi there 👋
+Computer engineering expert with experience in back-end development and expertise in designing and implementing scalable and efficient systems. Familiar with programming languages ​​such as Python, Java, and PHP, as well as various frameworks such as Django and Laravel.
 
 
 ## 🌐 Socials:
