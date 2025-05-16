@@ -8,8 +8,6 @@ Computer engineering expert with experience in back-end development and expertis
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morteza.__.2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mzulfikari1382@gmail‬‏) 
 
 
 # 💻 Tech Stack:
