@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Morteza Zulfiqari</h1>
 <h3 align="center">A passionate backend developer from iran/yazd</h3
 
-
 - 🔭 I’m currently working on **Sales-Report project**
-
 - 💬 Ask me about **Studying at Azad University of Yazd and learning about data structures**
-
 - 📫 How to reach me **mzulfikari1382@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
