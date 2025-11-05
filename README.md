@@ -6,7 +6,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+  <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="30" />
   Hi, welcome!
 </h2>
 <!-- <h2 align="center">
