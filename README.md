@@ -11,8 +11,11 @@
   Hi, welcome!
 </h2>
 <!-- <p align="center">
-  <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download" width="40" alt="meow" />
-  <b>Hi, welcome!</b>
+  <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download"
+       width="40"
+       alt="meow"
+       style="vertical-align: middle;" />
+  <b style="vertical-align: middle;">Hi, welcome!</b>
 </p>
  -->
 <p align="center">
