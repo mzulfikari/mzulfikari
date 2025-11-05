@@ -1,9 +1,10 @@
-<div align="center">
+<div align="center" 
+     style="border-radius:15px; overflow:hidden; display:inline-block;">
   <img src="image/Programmers-never-die-HD-Wallpaper%20(1).png"
-    width="100%"
-    style="max-height:120px; border-radius:15px; object-fit:cover;"
-  />
+       width="100%"
+       style="max-height:120px; object-fit:cover; display:block;" />
 </div>
+
 
 <h2 align="center">
   <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="45" />
