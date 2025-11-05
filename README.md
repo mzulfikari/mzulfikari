@@ -10,10 +10,11 @@
   <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="45" />
   Hi, welcome!
 </h2>
-<!-- <h2 align="center">
+<!-- <p align="center">
   <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download" width="40" alt="meow" />
-  Hi, welcome!
-</h2> -->
+  <b>Hi, welcome!</b>
+</p>
+ -->
 <p align="center">
   <img src="image/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="120">
 </p>
