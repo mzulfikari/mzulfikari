@@ -7,9 +7,12 @@
 
 
 <h2 align="center">
-  <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="45" />
-  Hi, welcome!
+  <img src="image/e8f453469a3ec97ecd354df465d73913.gif"
+       width="45"
+       style="vertical-align: middle;" />
+  <span style="vertical-align: middle;">Hi, welcome!</span>
 </h2>
+
 <!-- <p align="center">
   <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download"
        width="40"
