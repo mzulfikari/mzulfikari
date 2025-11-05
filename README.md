@@ -14,7 +14,7 @@
   Hi, welcome!
 </h2> -->
 <p align="center">
-  <img src="image/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="60">
+  <img src="image/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="90">
 </p>
 
 <!-- <h3 align="center">
