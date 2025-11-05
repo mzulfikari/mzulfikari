@@ -10,7 +10,7 @@
   <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="45" />
   Hi, welcome!
 </h2>
-<!-- <h2 align="center" style="display: inline-flex; align-items: center; gap: 8px;">
+<!-- <h2 align="center">
   <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download" width="40" alt="meow" />
   Hi, welcome!
 </h2> -->
