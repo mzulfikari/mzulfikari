@@ -6,7 +6,7 @@
 </div>
 
 <h2 align="center">
-  <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="90" />
+  <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="60" />
   Hi, welcome!
 </h2>
 <!-- <h2 align="center">
