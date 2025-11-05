@@ -10,7 +10,7 @@
   <img src="image/e8f453469a3ec97ecd354df465d73913.gif"
        width="45"
        style="vertical-align: middle;" />
-  <span style="vertical-align: middle;">Hi, welcome!</span>
+  <span style="vertical-align: -5px;;">Hi, welcome!</span>
 </h2>
 
 <!-- <p align="center">
