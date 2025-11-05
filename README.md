@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/rt.jpg"
+  <img src="image/Programmers-never-die-HD-Wallpaper%20(1).png"
     width="100%"
     style="max-height:120px; border-radius:15px; object-fit:cover;"
   />
