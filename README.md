@@ -6,7 +6,7 @@
 </div>
 
 <h2 align="center">
-  <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="30" />
+  <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="90" />
   Hi, welcome!
 </h2>
 <!-- <h2 align="center">
@@ -16,17 +16,6 @@
 <p align="center">
   <img src="image/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="120">
 </p>
-
-<!-- <h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-  <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Daily Quotations</a>
-</h3> -->
-
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-  <a href="https://maryamkalantarii.github.io/" target="_blank">Latest Articles & Dev Thoughts</a>🐾
-</h3>
-
 ---
 
 
