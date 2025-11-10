@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/Programmers-never-die-HD-Wallpaper%20(1).png" width="100%" alt="banner" />
+  <img src="image/f7e3a468-adbb-4b4b-a3b6-ebd37089fee5.gif" width="100%" alt="banner" />
 </p>
 
 <h2 align="center">
