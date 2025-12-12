@@ -19,11 +19,16 @@
 
 ---
 
-## 📫 Contact
 <p align="center">
-  [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:mzulfikari1382@gmail.com)
+  <a href="mailto:mzulfikari1382@gmail.com">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" />
+  </a>
+</p>
+
+<p align="center">
   mzulfikari1382@gmail.com
 </p>
+
 ---
 
 ## 🛠 Languages & Tools
