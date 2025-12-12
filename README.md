@@ -1,36 +1,39 @@
+<!-- Banner -->
 <p align="center">
-  <img src="image/f7e3a468-adbb-4b4b-a3b6-ebd37089fee5.gif" width="100%" alt="banner" />
+  <img src="image/f7e3a468-adbb-4b4b-a3b6-ebd37089fee5.gif" width="80%" alt="banner" />
 </p>
 
+<!-- Welcome Title -->
 <h2 align="center">
   <img src="image/e8f453469a3ec97ecd354df465d73913.gif"
-       width="45"
+       width="40"
        style="vertical-align: middle;" />
-  <span style="vertical-align: -20px;;">Hi, welcome!</span>
+  <span style="vertical-align: -15px;">Hi, welcome!</span>
 </h2>
 
-<!-- <p align="center">
-  <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download"
-       width="40"
-       alt="meow"
-       style="vertical-align: middle;" />
-  <b style="vertical-align: middle;">Hi, welcome!</b>
-</p>
- -->
 <p align="center">
-  <img src="image/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="120">
+  <img src="image/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="90" />
 </p>
 
+<!-- Name / Title -->
+<h1 align="center">Hi 👋, I'm <span style="color:#00e1ff;">Morteza Zulfiqari</span></h1>
+<h3 align="center">A passionate backend developer from <span style="color:#ff0066;">Iran / Yazd</span></h3>
 
-<h1 align="center">Hi 👋, I'm Morteza Zulfiqari</h1>
-<h3 align="center">A passionate backend developer from iran/yazd</h3
+<!-- Hacker-style Description -->
+```sh
+$ whoami
+> Backend Developer (Python | Django | Databases)
 
-- 🔭 I’m currently working on **Sales-Report project**
-- 💬 Ask me about **Studying at Azad University of Yazd and learning about data structures**
-- 📫 How to reach me **mzulfikari1382@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+$ now_working_on
+> "Sales-Report Project"
+
+$ ask_me_about
+> "Studying at Azad University of Yazd"
+> "Data Structures - Backend - Django"
+
+$ contact
+> mzulfikari1382@gmail.com
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mzulfikari1382@gmail‬‏) 
