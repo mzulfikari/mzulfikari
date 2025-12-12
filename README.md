@@ -1,3 +1,42 @@
+<!-- Banner -->
+<p align="center">
+  <img src="image/f7e3a468-adbb-4b4b-a3b6-ebd37089fee5.gif" width="85%" alt="banner" />
+</p>
+
+<!-- Title with icon -->
+<h2 align="center">
+  <img src="image/e8f453469a3ec97ecd354df465d73913.gif"
+       width="40"
+       style="vertical-align: middle;" />
+  <span style="vertical-align: -15px;">Hi, welcome!</span>
+</h2>
+
+<!-- Cute cat GIF -->
+<p align="center">
+  <img src="image/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100" alt="cat" />
+</p>
+
+<!-- Name + About -->
+<h1 align="center">Hi 👋, I'm Morteza Zulfiqari</h1>
+<h3 align="center">A passionate backend developer from Iran / Yazd</h3>
+
+<!-- About Me -->
+<ul>
+  <li>🔭 I’m currently working on <b>Sales-Report project</b></li>
+  <li>💬 Ask me about <b>studying at Azad University of Yazd and data structures</b></li>
+  <li>📫 Reach me at: <b>mzulfikari1382@gmail.com</b></li>
+</ul>
+
+<!-- Socials -->
+<h3 align="left">🌐 Socials:</h3>
+
+<p align="left">
+  <a href="mailto:mzulfikari1382@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
