@@ -19,11 +19,11 @@
 
 ---
 
-## 🌐 Socials
+## 📫 Contact
 <p align="center">
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mzulfikari1382@gmail.com)
+  [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:mzulfikari1382@gmail.com)
+  mzulfikari1382@gmail.com
 </p>
-
 ---
 
 ## 🛠 Languages & Tools
