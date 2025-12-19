@@ -20,20 +20,21 @@
 ---
 
 <p align="center">
-  <!-- Gmail -->
-  <a href="mailto:mzulfikari1382@gmail.com">
+    <a href="mailto:mzulfikari1382@gmail.com">
     <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" />
   </a>
-  &nbsp;&nbsp; <!-- فاصله بین لوگوها -->
-  <!-- Telegram -->
+</p>
+
+<p align="center">
+  mzulfikari1382@gmail.com
+</p>
+<p align="center">
   <a href="https://t.me/mzulfiqari" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:mzulfikari1382@gmail.com">mzulfikari1382@gmail.com</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://t.me/mzulfiqari" target="_blank">@mzulfiqari</a>
 </p>
 
