@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  @mzulfiqari
+  <a href="https://t.me/mzulfiqari" target="_blank">@mzulfiqari</a>
 </p>
 
 ---
