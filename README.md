@@ -28,7 +28,15 @@
 <p align="center">
   mzulfikari1382@gmail.com
 </p>
+<p align="center">
+  <a href="https://t.me/mzulfiqari" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" />
+  </a>
+</p>
 
+<p align="center">
+  @mzulfiqari
+</p>
 ---
 
 ## 🛠 Languages & Tools
