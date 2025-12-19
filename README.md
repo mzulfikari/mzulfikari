@@ -24,9 +24,8 @@
     <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" />
   </a>
 </p>
-
 <p align="center">
-  mzulfikari1382@gmail.com
+  <a href="mailto:mzulfikari1382@gmail.com">mzulfikari1382@gmail.com</a>
 </p>
 <p align="center">
   <a href="https://t.me/mzulfiqari" target="_blank">
