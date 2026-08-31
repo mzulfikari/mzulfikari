@@ -1,77 +1,95 @@
-<!-- Banner -->
-<p align="center">
-  <img src="image/f7e3a468-adbb-4b4b-a3b6-ebd37089fee5.gif" width="85%" alt="banner" style="border-radius:12px;" />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm <b>Morteza Zulfiqari</b></h1>
-<h3 align="center">Backend Developer from Iran / Yazd</h3>
+# 👋 Hey, I'm Morteza Zolfaghari
 
-<p align="center">
-  <img src="image/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="120" />
-</p>
+### Backend Developer · Python & Django · System Design
 
----
+<a href="YOUR_RESUME_URL">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Resume-Visit%20My%20Portfolio-111111?style=for-the-badge" />
+</a>
 
-## 📦 About Me
-- 🔭 I’m currently working on **Sales-Report Project**  
-- 💬 Ask me about **Data Structures & Backend Development**  
-- 📫 Email: **mzulfikari1382@gmail.com**
+</div>
 
 ---
 
-<p align="center">
-    <a href="mailto:mzulfikari1382@gmail.com">
-    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" />
-  </a>
-</p>
-<p align="center">
-  <a href="mailto:mzulfikari1382@gmail.com">mzulfikari1382@gmail.com</a>
-</p>
-<p align="center">
-  <a href="https://t.me/mzulfiqari" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" />
-  </a>
-</p>
+## 🧠 About Me
 
-<p align="center">
-  <a href="https://t.me/mzulfiqari" target="_blank">@mzulfiqari</a>
-</p>
+Software Developer focused on **backend engineering, API development, and real-world systems**.
+
+My main stack is **Python & Django**, with a strong interest in **System Design, Software Architecture, DevOps, and scalable backend systems**.
+
+> **Build simple. Think deeply. Engineer for scale.**
 
 ---
 
-## 🛠 Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
-</p>
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker,nginx,linux,git,github" />
+
+</div>
 
 ---
 
-## 📊 GitHub 3D Cards
+## 🏗️ Engineering Focus
 
-<p align="center">
-  <!-- Profile Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzulfikari&theme=github_dark" alt="Profile Card" />
-  <br><br>
-  <!-- Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mzulfikari&theme=github_dark" alt="Stats Card" />
-  <br><br>
-  <!-- Top Languages Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mzulfikari&theme=github_dark" alt="Top Languages" />
-</p>
+**Backend** → Django · DRF · REST APIs · Business Logic
+
+**Architecture** → System Design · Modular Architecture · Service Layer
+
+**Security** → JWT · OTP · Authentication · Rate Limiting
+
+**Infrastructure** → Docker · Nginx · Gunicorn · Redis · Celery
 
 ---
 
-<p align="center">
-  <img src="image/e8f453469a3ec97ecd354df465d73913.gif" width="60" />
-</p>
-<h3 align="center">✨ Thanks for visiting ✨</h3>
+## 🚀 What I'm Building
+
+Currently focused on **production-oriented software** and improving my engineering fundamentals.
+
+* 🔐 Secure authentication systems
+* 📅 Management & reservation platforms
+* 🔌 Scalable REST APIs
+* 🧩 Modular backend architectures
+* 🐳 Containerized deployments
+* ⚡ Asynchronous & distributed processing
+
+---
+
+## 📌 Featured Project
+
+### 🏢 Salon Management System
+
+A real-world **reservation & management platform** built with a focus on clean architecture, authentication, business logic and scalability.
+
+`Python` · `Django` · `DRF` · `PostgreSQL` · `Redis` · `JWT` · `OTP` · `Docker`
+
+---
+
+## 🧠 Engineering Principles
+
+```text
+Simple before complex.
+Understand before abstracting.
+Readable before clever.
+Design before scaling.
+Build for real problems.
+```
+
+---
+
+## 📚 Currently Learning
+
+`System Design` · `Advanced Django` · `PostgreSQL` · `Redis & Celery` · `Backend Security` · `DevOps` · `AI Engineering`
+
+---
+
+<div align="center">
+
+### 🚀 Building · Learning · Improving
+
+**Software is never finished — it evolves.**
+
+</div>
+---
