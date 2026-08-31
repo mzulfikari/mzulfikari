@@ -4,7 +4,7 @@
 
 ### Backend Developer · Python & Django · System Design
 
-<a href="YOUR_RESUME_URL">
+<a href="https://mzulfikari.github.io/">
   <img src="https://img.shields.io/badge/🌐%20Live%20Resume-Visit%20My%20Portfolio-111111?style=for-the-badge" />
 </a>
 
