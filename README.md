@@ -4,6 +4,8 @@
 
 ### Backend Developer · Python & Django · System Design
 
+**Founder & Co-Founder at [Knack](https://github.com/knack-pardaz-dev)**
+
 <a href="https://mzulfikari.github.io/">
   <img src="https://img.shields.io/badge/🌐%20Live%20Resume-Visit%20My%20Portfolio-111111?style=for-the-badge" />
 </a>
@@ -17,6 +19,8 @@
 Software Developer focused on **backend engineering, API development, and real-world systems**.
 
 My main stack is **Python & Django**, with a strong interest in **System Design, Software Architecture, DevOps, and scalable backend systems**.
+
+I'm also building **Knack**, a software development brand focused on creating practical digital products and engineering solutions.
 
 > **Build simple. Think deeply. Engineer for scale.**
 
@@ -54,6 +58,7 @@ Currently focused on **production-oriented software** and improving my engineeri
 * 🧩 Modular backend architectures
 * 🐳 Containerized deployments
 * ⚡ Asynchronous & distributed processing
+* 🚀 **Knack — building practical software products**
 
 ---
 
@@ -82,6 +87,16 @@ Build for real problems.
 ## 📚 Currently Learning
 
 `System Design` · `Advanced Django` · `PostgreSQL` · `Redis & Celery` · `Backend Security` · `DevOps` · `AI Engineering`
+
+---
+
+## 🏢 Knack
+
+Building software, exploring technology, and turning ideas into **practical digital products**.
+
+<a href="https://github.com/knack-pardaz-dev">
+  <img src="https://img.shields.io/badge/Knack-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
